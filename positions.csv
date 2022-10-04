@@ -1,6 +1,6 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
-education,TRUE,"M.S. Program Evaluation and Data Analytics",Arizona State University,"Tempe, AZ",2023
-education,TRUE,"B.S., psychology (minor C.S.)",Illinois State University,"Normal, IL",2016,2017
+education,TRUE,"M.S. Program Evaluation and Data Analytics",Arizona State University,"Tempe, AZ",2023., NA, NA
+education,TRUE,"B.S., psychology (minor C.S.)",Illinois State University,"Normal, IL",2016,2017., NA, NA
 research_positions,FALSE,Research Assistant,Psychology Laboratory,Illinois State University,2012,2013,Independently analyzed and constructed statistical models for large data sets pertaining to carbon decomposition rates.,NA,NA
 industry_positions,FALSE,Software Engineering Intern,Conduce,"Carpinteria, CA",2014,2014,Incorporated d3.js to the company's main software platform.,NA,NA
 industry_positions,FALSE,Engineering Intern - User Experience,Dealer.com,"Burlington, VT",2015,2015,Built internal tool to help analyze and visualize user interaction with back-end products.,NA,NA
